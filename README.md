@@ -1,6 +1,6 @@
 # Allure Report to PractiTest Converter
 
-This script simplifies the process of converting an Allure report into a format compatible with PractiTest or similar tools.
+Script to simplify the process of converting an Allure report into a format compatible with PractiTest or similar tools.
 
 ## Usage
 
